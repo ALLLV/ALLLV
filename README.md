@@ -1,7 +1,7 @@
 ### Hi, I am ALLLV
 
 I am C# junior developer<br/>
-Here is what I can do:<br/>
+Here is what I can do:
 <div>
   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height="80" width="80"/></a>&nbsp;
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" height="80" width="80"/></a>&nbsp;

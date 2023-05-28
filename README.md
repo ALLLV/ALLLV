@@ -1,6 +1,6 @@
 ### Hi, I am ALLLV
 
-<p>I am C# junior developer<p>
+- I am C# junior developer
 
   
 ---

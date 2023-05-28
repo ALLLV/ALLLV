@@ -1,7 +1,7 @@
 ### Hi, I am ALLLV
 
 I am C# junior developer
-&nbsp
+
 ---
 ### Here is how to find me
 

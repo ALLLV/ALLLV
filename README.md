@@ -1,9 +1,7 @@
 ### Hi, I am ALLLV
 
 I am C# junior developer
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40"/>
-</div>
+&nbsp
 ---
 ### Here is how to find me
 

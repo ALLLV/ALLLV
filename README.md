@@ -11,4 +11,4 @@ Here is what I can do:
 ---
 ### Here is how to find me
 
-<div><a href="https://t.me/alllv_tt"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"></a></div>
+<div><a href="https://t.me/alllv_tt"></a></div>

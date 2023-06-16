@@ -10,4 +10,4 @@ Here is what I can do:
 
 ---
 ### Here is how to find me
-Telegram - href="https://t.me/alllv_tt<br/>
+Telegram - https://t.me/alllv_tt<br/>
